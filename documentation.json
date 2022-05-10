@@ -69,7 +69,7 @@
                 }
             ],
             "stylesData": "",
-            "templateData": "<div>\n  Other Content\n  <app-button></app-button>\n</div>\n\n<router-outlet></router-outlet>\n"
+            "templateData": "<div>\n  Other Content\n  <h1 class=\"text-3xl font-bold underline\">Hello world!</h1>\n  <app-button></app-button>\n</div>\n\n<router-outlet></router-outlet>\n"
         },
         {
             "name": "ButtonComponent",
@@ -258,7 +258,7 @@
             "isDuplicate": true,
             "duplicateId": 1,
             "duplicateName": "ButtonComponent-1",
-            "templateData": "<button type=\"button\">button works!</button>\n"
+            "templateData": "<img src=\"/assets/Button.png\" alt=\"\" width=\"238px\" height=\"80px\" />\n"
         },
         {
             "name": "HeaderComponent",
