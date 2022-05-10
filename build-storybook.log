@@ -1,0 +1,761 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v16.13.2
+
+Operating system : macOS Monterey
+
+[02:45:37] No configuration file found, switching to CLI flags.
+[02:45:38] Using tsconfig file : /Volumes/Shared/Dev/temp/ku-ds-poc/tsconfig.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.browserslistrc
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.editorconfig
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.gitignore
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/README.md
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/angular.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/build-storybook.log
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/documentation.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/karma.conf.js
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/package-lock.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/package.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/tsconfig.app.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/tsconfig.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/tsconfig.spec.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/yarn.lock
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.storybook/main.js
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.storybook/preview.js
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.storybook/tsconfig.json
+[02:45:38] Ignoring       : /Volumes/Shared/Dev/temp/ku-ds-poc/.storybook/typings.d.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.vscode/extensions.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.vscode/launch.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.vscode/tasks.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/index.html
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/main.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/favicon.ico
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/polyfills.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/styles.scss
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/test.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.prod.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.html
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.scss
+[02:45:38] Ignoring       : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.spec.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app-routing.module.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.module.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/assets/.gitkeep
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Button.stories.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Header.stories.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Introduction.stories.mdx
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Page.stories.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/User.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/button.component.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/header.css
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/header.component.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/page.component.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/page.css
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/button.css
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/button/button.component.html
+[02:45:38] Ignoring       : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/button/button.component.spec.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/button/button.component.scss
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/button/button.component.ts
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/colors.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/comments.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/direction.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/flow.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/code-brackets.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/plugin.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/repo.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/assets/stackalt.svg
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0124d6035fe1063dad7d06e927a1a87c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/01fdb94a2a66a53727462d3b1c533c0c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0277e2f3bcd18dba27346b7081c7d8e5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/04af3afb800ddf6303c10a98d38063e8.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/05785288a842ff89b959998962cee3a8.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0c74bbdc1f9eca79b4e47cb8cea79e24.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/07cc513f0ff539aeab18885531fc311d.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0ea2555645deadf244e26e56d5119f30.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0b0c7631db8c94c21f694a5171a666cc.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0e30f0752b08bde148b5960b80109e13.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/10427771453f3dcbac593b62283956a6.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/0f181018de079985afefe8f22cf4b542.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/120a372687b8155a58a8e3f14d872516.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/111ea51c588aea545445b5947edfb403.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/1693a20a6a10cd3211582bed3a95708e.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/1317ca1667745f5758d7286805a8575e.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/16a3b77517aa80200a7a8e4d952fde88.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/1d76ae2ae3a2155364fdbc9c69e3f392.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/1c2ffeca312b79200f38b6dd6724cf32.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/12a4b92b092ffa84d087fdba57fceeaf.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/1e9b42fecf01a5fb766dfeb7ad8ebe70.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/21214804f788d38a21eea24312157999.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/221d0c02b74ead76c1bd355173ec50ca.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/2247128ea6ea1b89404db8c1f62b5a7b.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/218397c1aa968defe28db5c27e43e58e.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/28bb1b9db9c088bce88417179895a133.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/285ed209b2a841c8232b5209b9b08d48.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/28f3f02f0046742bce467198095c0721.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/2b41e50f1e851fc14d33a23a9388c2b6.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/2bffca39aecb9b6e7cb75ffb8a8ba831.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/31a65afbf68591253d96793412abbf26.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/31f869b3e943e48f71988b4ba87fad00.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/2a62e3280f265dd084f13af14bc6ddaf.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/306547968408d593962fee72e8cbe934.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/3a43f06a32770670986489cc91eda14a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/339e57932965be038af4570e7e6ecb70.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/3b7598fb75e9368443f5b153e614bf65.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/37f56acdd5c6be16fb69d9749cb491fc.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/3c120bb53ce9acb61988801de5623195.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/3f5b39129a2105a031ea084233ef7b0e.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/407efa7ea3acfaf719b62e91a66666bb.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/473902d3c84e5fee452eaf6dab8406e8.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4749d4d87577b9afb773971c9c84dfaf.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/3ef94faf7c6a9533ef3f7daeb28c40ce.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/498a32cc75cc349139d1d051611f33a2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/46dca97f677b50b4486d0b87c67ad515.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4b2887d793ad55198731ff1d98745573.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/479330a56e15a7b940ae006b355f90f2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4e70239a63f7963e910b007cac41bb1a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4f38d2927d47b3eae78b089cc370f9ed.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4dc4afb99114fe4faff8a29f78ad6d83.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/50cdd9c1310fb3c1e43db33cc60a9064.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/525bacc2e6112d5eddcd0e3447204986.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/538f433b00f71a347497aaf6b4fa4a55.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/56614a6bd071c17dd722a1ff95d8b14c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/507d69a076f49b9fdcb3c823080ffdf0.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/581d8f4448ea1f3d6b4f2c6f2b41d83d.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/5a58ac7d692ae4d3a05016d1cc3503d2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/5eb7ae4dd32a5bec90e0dd09f0776651.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/5f9ba5a9f102b7ff54a624150d80dfa4.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/5e000d035ff1eb969015e26e91ca5969.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/611e2c87f631470e39c67a0a66045f56.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/61d3ff539b9780d05cf52df828c5d101.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/60140a685ef35f3dc48ffb3abfc0a7c2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/625d5a52d0b270b5b830f01c2c13c833.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/62f19af835a21a3612a9fb9b2050bd47.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/02ac6dda68316081937ab41b03a2b575.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/65a8b6e25b6fa2749fec3a3c6082674c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/66e258f2ee048800c7d12ffb94bc5b95.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/63819bf4020b389b76cb933ad2f6b6f6.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/654ddc7eef44d74a1f3cdca28450896b.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/68bb2273d70bf02a31553407f947ca37.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/69bbe4eb756ba7120e6b5078eaa329d3.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6a36256723fdf58c607585577c88aa21.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6a5f885113e8dd4a1a0eb8279220398c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6a2e9552e60209fb3bd2c86727f5b1b2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6e065d0c791d601a95c282e624329882.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7054cde28c803c7025387ad8b616fc90.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6aa7cdd6df11c2b94ec1eb75cf4cd697.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/6ad78ca807affb293d1e066c5bd06514.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/73bce881d230a9b35171d535c2081bee.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/70b6db298f1b9fde58640cc7af9b3cd9.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/77eb9cf3ef1576e77762f15d48045176.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7b645208b8276f0027ab028a70050732.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7a0b51cdf2f4dd1c2b18ce399545d6de.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7d961019e7a03f550bbb0c14448f06ff.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7e067d19da88e95bdfe33d27b09f211c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7f073835d57e36664ed7b9ebea6cd308.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7f2e5b6fe8ea754664a7274909b01e0f.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7ba02e684109f063c279600889a7d992.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/8320cd70476f718ade53ef084c6a69d4.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/83e2aa61af6288b4149575980b40e1b7.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/83e2b912934c1422f3a8c81149dceacb.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/844a93354e94aa4215dd464d81c290e5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/7a2e011e5906c5161a65745bb0d7b547.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/8897f4c2db7f82c7734f69c453bbcb50.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/844dfb3ae7e87f767277ac4c8c026417.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/91b6ff287267905f231a624a4dc0a5b7.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/8c7df885f9c7d564fd985a1162493042.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/8e2c22df8fa6f92974178696787c476c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/91fecd8b6c0e2349689d5f033ed701d7.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/933329a0a365bcdf191d3e9d024a94f9.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/92b3dfdbc734157dd38d8774f43f824f.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/932f93cd7f75f071c000987672f2c8f9.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/96a4151a6fc181198199a1b2b3197c9f.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/93dda136a61bb0b824ee357eba0e0f10.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/946b1ea94fcbb472179669350433ab8e.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/9dedc601264313bbca9f191637fe56ab.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/9810cb37c2de33c5e15ab7616ce0342a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a03cd60e94adb97cbdafa9de82531d2a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/989f6c16bd8b163c9c4222670f38be66.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/4af6b48d93c7321ea9d2dc1c5e162f85.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a0e746dc1421571506e5e586eaa494b1.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a5ff9b423f2a8eb449295c860aef05e4.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a1b7240b77d5447f4d2ca2c786c31e35.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/af38b58a08d230c621045bcc1937538a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a2afb4762fdf49e70b142107bb6c2008.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/a2e966379fa8bf1564f071c7889107f0.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/b4178d58d7ef00710d5a22695efe69e5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/af74486eccf63eb2e903f4feb4dc7125.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/bd7a669bb0dcdd54cb19b433bcc579dd.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/b57fa771a4cf5e42d5fb957f6a885288.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/be90ce8754425111b25fd8145abc85df.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ba05fe92fe43cc7dd96649d031b1d8be.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c18c5fd35777f4e005d88f05d541ee2c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c3f31a9b37d39abc58a3c948be501a2b.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/be1ff5c1de4aa6cd2ec01e21cb7ad0a7.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/bf8c9e4f797cb7b5b0e44b13c4954b7c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c15081742bd48f6ff5e3c6e02b4f8036.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c650b39760775605bba3b06fe78d1c3a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c6f306ff748cb17b7d8bfe4312ecbbb3.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c71aafb2b86788e98fc34d97fe770b0a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c984c52b272db1fca22d49e370a5df9c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c51da851792c6e5c6d5a18942c8eb3a9.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/c62d1412608973edb584851387651c4a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cb7348864e5e62d5338428bdf67bae58.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cd0319070801c49b8433e6923dd0480c.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ce4b2b688ceb97d2d6e50b36dab77ddb.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ca3837b46229bcf45290aba83d3f760d.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cb0f30f08af076e2ebedaeecf0f32ee9.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cb574dbc12bc652526017cea5ecf90ce.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cee5bb0ce93ccdcc23e046badc915bde.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ce52ef1e7d82751eefd4800c5254ac60.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/cfa94d9fc9c1fb9dec074cb0d74436fd.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d2cd7048003a8b293199cfe9579ddf30.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d101fee2ecf35526147eea6f5930c7f5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d69ec01615e0ab6e62f43a810378ec65.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d794cb1fe7743afd6afd946ede59c5a2.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d4e13a94dd639742973fc39f2596cf32.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d7fe717fdaf7c01289b07da77047ebdf.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d80ad1b4aac13a59a95b2dca08d548d0.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/da4519b10f74055eb40c3d6e27fc93e3.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/dc6503aee103733d4971d7c1ee989a95.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/dcf4b298b2049da2417ec613841c7de5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/de8977902426a3d5f0100be3fdebbf60.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/deb50a9eeedb9beefb9cf7f8c7380d33.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/df431d7431fbbb29a73f12fec48e00d8.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/e4deb33500fbe20b24953a8233da1270.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/e5d85c9f0052cf8134274337d3428b1a.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/e89b40f796c89866350e45e9008c1265.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/e096dc3b78ecd60007b44accaa8c7d38.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ed08f9c88b5d678eae6aae790157d7b6.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/e35ba6ab2b578d9437e68a9d0738ca5f.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ef837be518453a8842708d973ce8aa22.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/efadbbf87e0be3a4c951c0fc198f0cf3.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/f0bc08cb077ce478a4ac839d796bb6fe.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/ed64fc56267799fb69de7032cb821341.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/f17c42f7ce0db7beac7ddba7d7e69df1.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/f9286e29fcaac252d6e982c72892181d.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/f9454b8e37f5de65de3c212e95f3fba5.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/fcb05721a6116802a9d2bfb516eb666f.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/fa9046826cabbc0d812ba93ce5128b33.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/fc9a5fecff50f67e8cc8b839870581ec.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/babel-webpack/d5a8b527f7385f5f47bf7ac7cd9043b3.json
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/3.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/2.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/1.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/0.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/index.pack.old
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/index.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/4.pack
+[02:45:38] Including      : /Volumes/Shared/Dev/temp/ku-ds-poc/.angular/cache/13.3.5/angular-webpack/292c94d6487d9066cd85fcc39132a637a8744d6a/5.pack
+[02:45:38] Searching package.json file
+[02:45:38] package.json file found
+[02:45:38] Processing package.json dependencies
+[02:45:38] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[02:45:38] README.md file found
+[02:45:38] Error during /Volumes/Shared/Dev/temp/ku-ds-poc/CHANGELOG read
+[02:45:38] Continuing without CHANGELOG.md file
+[02:45:38] Error during /Volumes/Shared/Dev/temp/ku-ds-poc/CONTRIBUTING read
+[02:45:38] Continuing without CONTRIBUTING.md file
+[02:45:38] Error during /Volumes/Shared/Dev/temp/ku-ds-poc/LICENSE read
+[02:45:38] Continuing without LICENSE.md file
+[02:45:38] Error during /Volumes/Shared/Dev/temp/ku-ds-poc/TODO read
+[02:45:38] Continuing without TODO.md file
+[02:45:38] Get dependencies data
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/main.ts
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/polyfills.ts
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/test.ts
+[02:45:38] found          : require
+[02:45:38] found          : context
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.prod.ts
+[02:45:38] found          : environment
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.ts
+[02:45:38] found          : environment
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app-routing.module.ts
+[02:45:38] Analysing routes definitions and clean them if necessary
+[02:45:38] found          : AppRoutingModule
+[02:45:38]                : - imports:
+[02:45:38]                : 	- RouterModule
+[02:45:38]                : - exports:
+[02:45:38]                : 	- RouterModule
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.module.ts
+[02:45:38] found          : AppModule
+[02:45:38]                : - imports:
+[02:45:38]                : 	- BrowserModule
+[02:45:38]                : 	- AppRoutingModule
+[02:45:38]                : - declarations:
+[02:45:38]                : 	- AppComponent
+[02:45:38]                : 	- ButtonComponent
+[02:45:38]                : - bootstrap:
+[02:45:38]                : 	- AppComponent
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.ts
+[02:45:38] found          : AppComponent
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Button.stories.ts
+[02:45:38] found          : Template
+[02:45:38] found          : Primary
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Header.stories.ts
+[02:45:38] found          : Template
+[02:45:38] found          : LoggedIn
+[02:45:38] found          : LoggedOut
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/Page.stories.ts
+[02:45:38] found          : Template
+[02:45:38] found          : LoggedOut
+[02:45:38] found          : LoggedIn
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/User.ts
+[02:45:38] found          : User
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/button.component.ts
+[02:45:38] found          : ButtonComponent
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/header.component.ts
+[02:45:38] found          : HeaderComponent
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/stories/page.component.ts
+[02:45:38] found          : PageComponent
+[02:45:38] parsing        : /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/button/button.component.ts
+[02:45:38] found          : ButtonComponent
+[02:45:38] -------------------
+[02:45:38] Project statistics 
+[02:45:38] - files      : 238
+[02:45:38] - module     : 2
+[02:45:38] - component  : 5
+[02:45:38] - interface  : 1
+[02:45:38] -------------------
+[02:45:38] Prepare components
+[02:45:38]  AppComponent has a templateUrl, include it
+[02:45:38]  AppComponent has styleUrls, include them
+[02:45:38]  ButtonComponent has styleUrls, include them
+[02:45:38]  ButtonComponent has a templateUrl, include it
+[02:45:38]  ButtonComponent has styleUrls, include them
+[02:45:38]  HeaderComponent has styleUrls, include them
+[02:45:38]  PageComponent has styleUrls, include them
+[02:45:38] Prepare modules
+[02:45:38] Process routes
+[02:45:38] Prepare interfaces
+[02:45:38] Prepare miscellaneous
+[02:45:38] Process documentation coverage report
+[02:45:38] Generating documentation in export format json
+[02:45:38] Documentation generated in ./ in 0.298 seconds
+info @storybook/angular v6.4.22
+info 
+info => Cleaning outputDir: /var/folders/_4/m7qccp2j2l91lk4q_v5w1d3m0000gn/T/chromatic--85033-8R5T5VObZvWX
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/Volumes/Shared/Dev/temp/ku-ds-poc/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "ku-ds-poc:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/19 entries 3/19 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building 0/19 entries 4/19 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/resolve-url-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/node_modules/sass-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/19 entries 4/19 dependencies 0/4 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/19 entries 14/20 dependencies 0/14 modules
+<s> [webpack.Progress] 10% building 0/19 entries 92/155 dependencies 4/54 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@mdx-js/loader/index.js
+<s> [webpack.Progress] 10% building 0/19 entries 92/176 dependencies 4/54 modules
+<s> [webpack.Progress] 12% building 1/19 entries 92/176 dependencies 6/54 modules
+<s> [webpack.Progress] 12% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 12% building 1/19 entries 122/183 dependencies 6/79 modules
+<s> [webpack.Progress] 15% building 2/19 entries 139/189 dependencies 8/96 modules
+<s> [webpack.Progress] 15% building 2/19 entries 300/372 dependencies 19/150 modules
+<s> [webpack.Progress] 15% building 2/19 entries 442/686 dependencies 46/186 modules
+<s> [webpack.Progress] 18% building 3/19 entries 442/686 dependencies 47/186 modules
+<s> [webpack.Progress] 18% building 3/19 entries 687/900 dependencies 57/304 modules
+<s> [webpack.Progress] 18% building 3/19 entries 800/1064 dependencies 74/340 modules
+[BABEL] Note: The code generator has deoptimised the styling of /Volumes/Shared/Dev/temp/ku-ds-poc/node_modules/prettier/standalone.js as it exceeds the max of 500KB.
+<s> [webpack.Progress] 18% building 3/19 entries 1340/1400 dependencies 110/477 modules
+<s> [webpack.Progress] 18% building 3/19 entries 1695/1738 dependencies 144/500 modules
+<s> [webpack.Progress] 18% building 3/19 entries 2241/2500 dependencies 284/569 modules
+<s> [webpack.Progress] 18% building 3/19 entries 2600/2946 dependencies 354/666 modules
+<s> [webpack.Progress] 21% building 4/19 entries 3094/3344 dependencies 438/835 modules
+<s> [webpack.Progress] 21% building 4/19 entries 3343/3400 dependencies 462/890 modules
+<s> [webpack.Progress] 21% building 4/19 entries 3859/4000 dependencies 495/951 modules
+<s> [webpack.Progress] 21% building 4/19 entries 4400/4651 dependencies 551/1171 modules
+<s> [webpack.Progress] 21% building 4/19 entries 5000/5063 dependencies 713/1241 modules
+<s> [webpack.Progress] 21% building 4/19 entries 5600/5693 dependencies 760/1326 modules
+<s> [webpack.Progress] 21% building 4/19 entries 6000/6125 dependencies 927/1432 modules
+<s> [webpack.Progress] 22% building 4/19 entries 6418/6600 dependencies 1111/1598 modules
+<s> [webpack.Progress] 22% building 4/19 entries 6600/6667 dependencies 1146/1610 modules
+<s> [webpack.Progress] 26% building 4/19 entries 7248/7255 dependencies 1500/1883 modules
+<s> [webpack.Progress] 27% building 4/19 entries 7361/7374 dependencies 1618/1900 modules
+<s> [webpack.Progress] 28% building 5/19 entries 7387/7502 dependencies 1645/1900 modules
+<s> [webpack.Progress] 28% building 6/19 entries 7387/7502 dependencies 1646/1900 modules
+<s> [webpack.Progress] 30% building 7/19 entries 7387/7502 dependencies 1647/1900 modules
+<s> [webpack.Progress] 33% building 8/19 entries 7387/7502 dependencies 1648/1900 modules
+<s> [webpack.Progress] 36% building 9/19 entries 7387/7502 dependencies 1649/1900 modules
+<s> [webpack.Progress] 38% building 10/19 entries 7387/7502 dependencies 1650/1900 modules
+<s> [webpack.Progress] 41% building 11/19 entries 7387/7502 dependencies 1651/1900 modules
+<s> [webpack.Progress] 44% building 12/19 entries 7387/7502 dependencies 1652/1900 modules
+<s> [webpack.Progress] 47% building 13/19 entries 7387/7502 dependencies 1653/1900 modules
+<s> [webpack.Progress] 50% building 14/19 entries 7387/7502 dependencies 1654/1900 modules
+<s> [webpack.Progress] 53% building 15/19 entries 7387/7502 dependencies 1658/1900 modules
+<s> [webpack.Progress] 56% building 16/19 entries 8221/8228 dependencies 2051/2081 modules
+<s> [webpack.Progress] 59% building 17/19 entries 8239/8239 dependencies 2072/2090 modules
+<s> [webpack.Progress] 62% building 18/19 entries 8239/8239 dependencies 2072/2090 modules
+<s> [webpack.Progress] 65% building 19/19 entries 8244/8244 dependencies 2090/2090 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (33 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.55a8598d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.55a8598d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.24691e7b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.24691e7b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.2eb2b18a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.2eb2b18a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 895.dbb993ed.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 895.dbb993ed.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.364a7fcd.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.364a7fcd.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.200665de.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.200665de.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 299.b9cb7723.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 299.b9cb7723.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 273.45ff1056.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 273.45ff1056.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 722.1f4b6d8b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 722.1f4b6d8b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 899.0068de6c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 899.0068de6c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.60a79a5b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.60a79a5b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 89.2809e243.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 89.2809e243.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.782b913b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.782b913b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.9171616e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.9171616e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.f9285123.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.f9285123.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 299.72e0d0a2.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 299.72e0d0a2.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 273.2a39aace.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 273.2a39aace.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 722.7776262a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 722.7776262a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 895.8319c67d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 895.8319c67d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 459.6e4835a6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 459.6e4835a6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.214d8846.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.214d8846.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 899.1c0f5709.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 899.1c0f5709.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.2a8297fb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.2a8297fb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 89.731bee4e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 89.731bee4e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (43 s)
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app-routing.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Volumes/Shared/Dev/temp/ku-ds-poc/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   459.6e4835a6.iframe.bundle.js (587 KiB)
+WARN   89.731bee4e.iframe.bundle.js (3.74 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.81 MiB)
+WARN       runtime~main.9171616e.iframe.bundle.js
+WARN       89.731bee4e.iframe.bundle.js
+WARN       main.css
+WARN       main.782b913b.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/_4/m7qccp2j2l91lk4q_v5w1d3m0000gn/T/chromatic--85033-8R5T5VObZvWX
