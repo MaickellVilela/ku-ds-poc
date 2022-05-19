@@ -2,3 +2,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "GTEestiProDisplay-Regular";
+  src: local("GTEestiProDisplay-Regular"),
+   url("./assets/GTEestiProDisplay-Regular.ttf") format("ttf");
+}
+
+* {
+  font-family: 'GTEestiProDisplay-Regular';
+}
